@@ -1,0 +1,4 @@
+name: QuoiFeurPlugin
+version: '${project.version}'
+main: quoifeurplugin.quoifeurplugin.Quoifeurplugin
+api-version: 1.19
